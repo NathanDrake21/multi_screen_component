@@ -1,0 +1,12 @@
+.monitor {
+    position: absolute;
+    transition: all ease-in-out 0.5s;
+    /* height: 540px; */
+    /* width: 960px; */
+    background-color: white;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+  }
